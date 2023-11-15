@@ -1,3 +1,6 @@
+# Repositorio donde esta ubicado el código que estoy desarrollando, configuración del generador, páginas en markdown de mi sitio web. 
+
+
 # Jekflix Template
 
 ![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
